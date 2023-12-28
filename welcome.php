@@ -43,7 +43,7 @@ footer {
   <?php require '_nav.php' ?>
 
   <h2 class="text-center my-4">Welcome
-    <?php echo $_SESSION['username'] ?> to our Website....
+    <?php echo $_SESSION['username'] ?> to our Website...
   </h2>
 
 
